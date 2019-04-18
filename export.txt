@@ -1,9 +1,0 @@
-To export:
-
-Export as Images... -> JPEG (high quality)
-
-Go to https://smallpdf.com/jpg-to-pdf
-Throw them all in and choose settings:
-- Landscape
-- Not A4
-- No margin
